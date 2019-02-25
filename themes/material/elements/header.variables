@@ -9,7 +9,7 @@
 @iconOffset: 0.2em;
 @iconAlignment: top;
 
-@subHeaderFontSize: 1rem;
+@subHeaderFontSize: 1em;
 
 
 /* HTML Headings */

@@ -57,7 +57,7 @@
 @fontSize            : 14px;
 @textColor           : rgba(0, 0, 0, 0.8);
 
-@headerMargin        : 1em 0em 1rem;
+@headerMargin        : 1em 0em 1em;
 @paragraphMargin     : 0em 0em 1em;
 
 @linkColor           : #009FDA;

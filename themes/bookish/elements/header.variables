@@ -26,7 +26,7 @@
 @h1: 1.75rem;
 @h2: 1.33rem;
 @h3: 1.33rem;
-@h4: 1rem;
+@h4: 1em;
 @h5: 0.9rem;
 
 /* Sizing */

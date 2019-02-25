@@ -9,7 +9,7 @@
 /* HTML Headings */
 @h1: 1.33rem;
 @h2: 1.2rem;
-@h3: 1rem;
+@h3: 1em;
 @h4: 0.9rem;
 @h5: 0.8rem;
 
