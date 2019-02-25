@@ -96,7 +96,7 @@
 @squareHeaderIconSize: 2em;
 
 /* No Line Height Offset */
-@iconHeaderTopMargin: 2rem;
+@iconHeaderTopMargin: 2em;
 @iconHeaderBottomMargin: @bottomMargin;
 @iconHeaderFirstMargin: 0em;
 

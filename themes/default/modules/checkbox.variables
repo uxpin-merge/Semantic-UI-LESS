@@ -110,28 +110,28 @@
 ;
 
 /* Slider */
-@sliderHandleSize: 1.5rem;
-@sliderLineWidth: 3.5rem;
+@sliderHandleSize: 1.5em;
+@sliderLineWidth: 3.5em;
 @sliderTransitionDuration: 0.3s;
 
-@sliderHandleOffset: (1rem - @sliderHandleSize) / 2;
+@sliderHandleOffset: (1em - @sliderHandleSize) / 2;
 @sliderHandleTransition: left @sliderTransitionDuration @defaultEasing;
 
 @sliderWidth: @sliderLineWidth;
 @sliderHeight: (@sliderHandleSize + @sliderHandleOffset);
 
 @sliderLineHeight: @3px;
-@sliderLineVerticalOffset: 0.4rem;
+@sliderLineVerticalOffset: 0.4em;
 @sliderLineColor: @transparentBlack;
 @sliderLineRadius: @circularRadius;
 @sliderLineTransition: background @sliderTransitionDuration @defaultEasing;
 
 @sliderTravelDistance: @sliderLineWidth - @sliderHandleSize;
 
-@sliderLabelDistance: @sliderLineWidth + 1rem;
+@sliderLabelDistance: @sliderLineWidth + 1em;
 @sliderOffLabelColor: @unselectedTextColor;
 
-@sliderLabelLineHeight: 1rem;
+@sliderLabelLineHeight: 1em;
 
 /* Slider States */
 @sliderHoverLaneBackground: @veryStrongTransparentBlack;
@@ -146,15 +146,15 @@
 
 
 /* Toggle */
-@toggleLaneWidth: 3.5rem;
-@toggleHandleSize: 1.5rem;
+@toggleLaneWidth: 3.5em;
+@toggleHandleSize: 1.5em;
 @toggleTransitionDuration: 0.2s;
 
 @toggleWidth: @toggleLaneWidth;
 @toggleHeight: @toggleHandleSize;
 
 @toggleHandleRadius: @circularRadius;
-@toggleHandleOffset: 0rem;
+@toggleHandleOffset: 0em;
 @toggleHandleTransition:
   background @sliderTransitionDuration @defaultEasing,
   left @sliderTransitionDuration @defaultEasing
@@ -163,12 +163,12 @@
 @toggleLaneBackground: @transparentBlack;
 @toggleLaneHeight: @toggleHandleSize;
 @toggleLaneBoxShadow: none;
-@toggleLaneVerticalOffset: 0rem;
-@toggleOffOffset: -0.05rem;
-@toggleOnOffset: (@toggleLaneWidth - @toggleHandleSize) + 0.15rem;
+@toggleLaneVerticalOffset: 0em;
+@toggleOffOffset: -0.05em;
+@toggleOnOffset: (@toggleLaneWidth - @toggleHandleSize) + 0.15em;
 
-@toggleLabelDistance: @toggleLaneWidth + 1rem;
-@toggleLabelLineHeight: 1.5rem;
+@toggleLabelDistance: @toggleLaneWidth + 1em;
+@toggleLabelLineHeight: 1.5em;
 @toggleLabelOffset: 0.15em;
 
 

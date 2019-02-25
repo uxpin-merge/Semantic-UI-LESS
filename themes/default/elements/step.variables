@@ -41,7 +41,7 @@
 @divider: @borderWidth solid @borderColor;
 
 /* Icon */
-@iconDistance: 1rem;
+@iconDistance: 1em;
 @iconSize: 2.5em;
 @iconAlign: middle;
 

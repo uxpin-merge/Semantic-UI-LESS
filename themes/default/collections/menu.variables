@@ -339,7 +339,7 @@
 @labeledIconItemHorizontalPadding: @relativeMassive;
 @labeledIconSize: @relativeMassive;
 @labeledIconMinWidth: 6em;
-@labeledIconTextMargin: 0.5rem;
+@labeledIconTextMargin: 0.5em;
 
 
 /* Text */
@@ -421,10 +421,10 @@
 @invertedColoredActiveBackground: @strongTransparentBlack;
 
 /* Fixed */
-@fixedPrecedingGridMargin: 2.75rem;
+@fixedPrecedingGridMargin: 2.75em;
 
 /* Floated */
-@floatedDistance: 0.5rem;
+@floatedDistance: 0.5em;
 
 /* Attached */
 @attachedTopOffset: 0px;
@@ -448,11 +448,11 @@
 @massive: @18px;
 
 /* Sizes */
-@miniWidth: 9rem;
-@tinyWidth: 11rem;
-@smallWidth: 13rem;
-@mediumWidth: 15rem;
-@largeWidth: 18rem;
-@bigWidth: 20rem;
-@hugeWidth: 22rem;
-@massiveWidth: 25rem;
+@miniWidth: 9em;
+@tinyWidth: 11em;
+@smallWidth: 13em;
+@mediumWidth: 15em;
+@largeWidth: 18em;
+@bigWidth: 20em;
+@hugeWidth: 22em;
+@massiveWidth: 25em;

@@ -21,7 +21,7 @@
 @promptBoxShadow: 0em 0em 0em 0em transparent inset;
 
 /* Mobile */
-@mobileMaxWidth: ~"calc(100vw - 2rem)";
+@mobileMaxWidth: ~"calc(100vw - 2em)";
 
 /* Result Box */
 @resultsWidth: 18em;
@@ -71,7 +71,7 @@
 @messageHeaderFontSize: @medium;
 @messageHeaderFontWeight: @bold;
 @messageHeaderColor: @textColor;
-@messageDescriptionDistance: 0.25rem;
+@messageDescriptionDistance: 0.25em;
 @messageDescriptionFontSize: 1em;
 @messageDescriptionColor: @textColor;
 

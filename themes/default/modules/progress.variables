@@ -96,7 +96,7 @@
 
 /* Attached */
 @attachedBackground: transparent;
-@attachedHeight: 0.2rem;
+@attachedHeight: 0.2em;
 @attachedBorderRadius: @borderRadius;
 
 /* Inverted */

@@ -100,4 +100,4 @@
       Variations
 --------------------*/
 
-@massive: 2rem;
+@massive: 2em;

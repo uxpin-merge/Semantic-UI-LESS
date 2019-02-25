@@ -105,8 +105,8 @@
 --------------------*/
 
 /* Grid Inside Popup */
-@nestedGridMargin: -0.7rem -0.875rem; /* (padding * @medium) */
-@nestedGridWidth: ~"calc(100% + 1.75rem)";
+@nestedGridMargin: -0.7em -0.875em; /* (padding * @medium) */
+@nestedGridWidth: ~"calc(100% + 1.75em)";
 
 /*-------------------
        States

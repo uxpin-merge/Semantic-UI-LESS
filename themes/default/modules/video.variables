@@ -5,12 +5,12 @@
 @background: #DDDDDD;
 @placeholderBackground: #333333;
 
-@playSize: 8rem;
+@playSize: 8em;
 @playColor: #FFFFFF;
 @playOpacity: 0.8;
 @playHoverOpacity: 1;
 @playShadow: none;
 
-@playBorderSize: 0rem;
+@playBorderSize: 0em;
 @playBackground: rgba(0, 0, 0, 0.3);
 @playBorderRadius: @circularRadius;

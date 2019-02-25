@@ -50,7 +50,7 @@
 @contentWordWrap: break-word;
 
 /* Date */
-@dateMargin: -0.5rem 0em 0em;
+@dateMargin: -0.5em 0em 0em;
 @datePadding: 0em;
 @dateColor: @lightTextColor;
 @dateFontSize: @relativeMedium;

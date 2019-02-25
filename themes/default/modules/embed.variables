@@ -21,7 +21,7 @@
 
 /* Icon */
 @iconBackground: @veryStrongTransparentBlack;
-@iconSize: 6rem;
+@iconSize: 6em;
 @iconTransition:
   opacity @transitionDuration @transitionEasing,
   color @transitionDuration @transitionEasing

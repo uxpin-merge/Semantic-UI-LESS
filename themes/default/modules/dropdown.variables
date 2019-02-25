@@ -76,7 +76,7 @@
 @menuHeaderFontSize: @relative11px;
 @menuHeaderFontWeight: @bold;
 @menuHeaderTextTransform: uppercase;
-@menuHeaderMargin: 1rem 0rem 0.75rem;
+@menuHeaderMargin: 1em 0em 0.75em;
 @menuHeaderPadding: 0em @itemHorizontalPadding;
 
 /* Menu Divider */
@@ -87,7 +87,7 @@
 
 /* Menu Input */
 @menuInputMargin: @large @mini;
-@menuInputMinWidth: 10rem;
+@menuInputMinWidth: 10em;
 @menuInputVerticalPadding: 0.5em;
 @menuInputHorizontalPadding: @inputHorizontalPadding;
 @menuInputPadding: @menuInputVerticalPadding @menuInputHorizontalPadding;

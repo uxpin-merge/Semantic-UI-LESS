@@ -17,7 +17,7 @@
 @iconWidth: 1.25em;
 @iconHeight: 1em;
 @iconDisplay: inline-block;
-@iconMargin: 0em 0.25rem 0em 0rem;
+@iconMargin: 0em 0.25em 0em 0em;
 @iconPadding: 0em;
 @iconTransition:
   transform @defaultDuration @defaultEasing,

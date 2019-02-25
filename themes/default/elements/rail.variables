@@ -9,7 +9,7 @@
 @width: 300px;
 @height: 100%;
 
-@distance: 4rem;
+@distance: 4em;
 @splitDistance: (@distance / 2);
 
 /*-------------------
@@ -28,7 +28,7 @@
 
 /* Dividing */
 @dividingBorder: 1px solid @borderColor;
-@dividingDistance: 5rem;
+@dividingDistance: 5em;
 @splitDividingDistance: (@dividingDistance / 2);
 @dividingWidth: @width + @splitDividingDistance;
 

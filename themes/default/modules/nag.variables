@@ -18,7 +18,7 @@
 @lineHeight: 1em;
 @boxShadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
 
-@fontSize: 1rem;
+@fontSize: 1em;
 @textAlign: center;
 @color: @textColor;
 
