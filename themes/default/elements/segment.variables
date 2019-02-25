@@ -15,7 +15,7 @@
 @horizontalPadding: 1em;
 @padding: @verticalPadding @horizontalPadding;
 
-@verticalMargin: 1rem;
+@verticalMargin: 1em;
 @horizontalMargin: 0em;
 @margin: @verticalMargin @horizontalMargin;
 @borderRadius: @defaultBorderRadius;
@@ -53,8 +53,8 @@
 @placeholderPadding: @padding;
 @placeholderBorderColor: @borderColor;
 @placeholderBoxShadow: 0px 2px 25px 0 rgba(34, 36, 38, 0.05) inset;
-@placeholderMinHeight: 18rem;
-@placeholderContentMaxWidth: 15rem;
+@placeholderMinHeight: 18em;
+@placeholderContentMaxWidth: 15em;
 @placeholderContentInlineButtonMargin: 0px @5px 0px 0px;
 
 

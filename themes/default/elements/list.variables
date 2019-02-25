@@ -156,7 +156,7 @@
 @animatedListIndent: 1em;
 
 /* Bulleted */
-@bulletDistance: 1.25rem;
+@bulletDistance: 1.25em;
 @bulletOffset: -@bulletDistance;
 
 @bulletOpacity: 1;
@@ -174,7 +174,7 @@
 @orderedCountName: ordered;
 @orderedCountContent: counters(ordered, ".") " ";
 @orderedCountColor: @textColor;
-@orderedCountDistance: 1.25rem;
+@orderedCountDistance: 1.25em;
 @orderedCountOpacity: 0.8;
 @orderedCountTextAlign: right;
 @orderedCountVerticalAlign: middle;
@@ -213,12 +213,12 @@
 /* Relaxed */
 @relaxedItemVerticalPadding: @relative6px;
 @relaxedChildItemVerticalPadding: @relative3px;
-@relaxedHeaderMargin: 0.25rem;
-@relaxedHorizontalPadding: 1rem;
+@relaxedHeaderMargin: 0.25em;
+@relaxedHorizontalPadding: 1em;
 
 /* Very Relaxed */
 @veryRelaxedItemVerticalPadding: @relative12px;
 @veryRelaxedChildItemVerticalPadding: @relative4px;
-@veryRelaxedHeaderMargin: 0.5rem;
-@veryRelaxedHorizontalPadding: 1.5rem;
+@veryRelaxedHeaderMargin: 0.5em;
+@veryRelaxedHorizontalPadding: 1.5em;
 

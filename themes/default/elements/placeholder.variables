@@ -1,4 +1,4 @@
-@placeholderMaxWidth: 30rem;
+@placeholderMaxWidth: 30em;
 
 /* Key Content Sizing */
 @placeholderLineMargin: @relative12px;
@@ -12,7 +12,7 @@
 @placeholderAnimationInterval: 0.15s;
 
 /* Repeated Placeholder */
-@consecutivePlaceholderSpacing: 2rem;
+@consecutivePlaceholderSpacing: 2em;
 
 /* Image */
 @placeholderImageHeight: 100px;

@@ -129,13 +129,13 @@
 @ribbonTriangleSize: 1.2em;
 @ribbonShadowColor: rgba(0, 0, 0, 0.15);
 
-@ribbonMargin: 1rem;
+@ribbonMargin: 1em;
 @ribbonOffset: calc(-@ribbonMargin - @ribbonTriangleSize);
 @ribbonDistance: calc(@ribbonMargin + @ribbonTriangleSize);
 @rightRibbonOffset:  calc(100% + @ribbonMargin + @ribbonTriangleSize);
 
-@ribbonImageTopDistance: 1rem;
-@ribbonImageMargin: -0.05rem; /* Rounding Offset on Triangle */
+@ribbonImageTopDistance: 1em;
+@ribbonImageMargin: -0.05em; /* Rounding Offset on Triangle */
 @ribbonImageOffset: calc(-@ribbonImageMargin - @ribbonTriangleSize);
 @rightRibbonImageOffset:  calc(100% + @ribbonImageMargin + @ribbonTriangleSize);
 
@@ -188,7 +188,7 @@
 @blackRibbonShadow: darken(@black, 10);
 
 /* Attached */
-@attachedSegmentPadding: 2rem;
+@attachedSegmentPadding: 2em;
 @attachedVerticalPadding: 0.75em;
 @attachedHorizontalPadding: 1em;
 

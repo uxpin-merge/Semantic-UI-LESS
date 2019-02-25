@@ -41,7 +41,7 @@
 @iconOpacity: 1;
 @iconSize: 1.5em;
 @iconOffset: 0em;
-@iconMargin: 0.75rem;
+@iconMargin: 0.75em;
 @iconAlignment: middle;
 
 /* Image */
@@ -53,7 +53,7 @@
 
 /* Label */
 @labelSize: '';
-@labelDistance: 0.5rem;
+@labelDistance: 0.5em;
 @labelVerticalAlign: middle;
 
 /* Content */
@@ -91,7 +91,7 @@
 /* Icon Header */
 @iconHeaderSize: 3em;
 @iconHeaderOpacity: 1;
-@iconHeaderMargin: 0.5rem;
+@iconHeaderMargin: 0.5em;
 @circularHeaderIconSize: 2em;
 @squareHeaderIconSize: 2em;
 
