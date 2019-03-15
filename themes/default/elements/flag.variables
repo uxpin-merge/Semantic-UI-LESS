@@ -6,7 +6,7 @@
        Element
 --------------------*/
 
-@spritePath: "@{imagePath}/flags.png";
+@spritePath: "https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/themes/default/assets/images/flags.png";
 @width: 16px;
 @height: 11px;
 @verticalAlign: baseline;
